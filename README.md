@@ -7,7 +7,7 @@ Hi 👋 My name is Yaren Bayir
 I started my career as a Software Developer. Currently I improve myself as a Frontend Developer. With the help of my design skills coming from architectural background, I would like to make people's life simple.
 
 * 🌍  I'm based in Istanbul
-* ⚡  I was an architect designing experience, now I am an developer still designing experience.
+* ⚡  I was an architect designing experience, now I am a developer still designing experience.
 
 ### Skills
 
