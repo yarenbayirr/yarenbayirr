@@ -1,7 +1,7 @@
 Hi 👋 My name is Yaren Bayir
 ============================
 
-.Net Full-Stack Developer and MsC Architect
+Software Developer and MsC Architect
 -------------------------------------------
 
 I started my career as a Software Developer. Currently I improve myself as a Frontend Developer. With the help of my design skills coming from architectural background, I would like to make people's life simple.
