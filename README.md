@@ -7,7 +7,7 @@ Software Developer and MsC Construction Architect
 I have transitioned into a software developer role. Currently I improve myself as a Frontend Developer. With the help of my design skills coming from architectural background, I would like to make people's life simple.
 
 * 🌍  I'm based in Istanbul
-* ⚡  I was an architect designing experience, now I am a developer still designing experience.
+* ⚡  I was a construction architect, contributing to people's experiences. Now, as a software developer, I continue to contribute to people's experiences.
 
 ### Skills
 
